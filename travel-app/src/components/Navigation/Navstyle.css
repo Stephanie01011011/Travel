@@ -13,10 +13,8 @@ ul{
    
    
 }
-.navMenu{
-    position: absolute;
-    right: 30px;
-    margin-top: 50px;
+.navBtns{
+   
     
 }
 a{
@@ -24,10 +22,26 @@ a{
     color: white!important;
     margin-left: 20px;
 }
+a:hover{
+    text-decoration: underline;
+    
+}
 .navLogo{
     display: flex;
     color: white;
 }
 .navLogo h4{
     margin-top: 3em;
+}
+.material-symbols-outlined{
+    color: white;
+   
+}
+.navMenu{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 50px;
+    text-align: right;
+    top: 3%;
 }
