@@ -1,0 +1,33 @@
+img{
+    width: 80px;
+}
+.navContainer{
+    display: flex;
+    width: 100vw;
+   
+}
+ul{
+    display: flex;
+   text-decoration: none;
+   list-style: none;
+   
+   
+}
+.navMenu{
+    position: absolute;
+    right: 30px;
+    margin-top: 50px;
+    
+}
+a{
+    
+    color: white!important;
+    margin-left: 20px;
+}
+.navLogo{
+    display: flex;
+    color: white;
+}
+.navLogo h4{
+    margin-top: 3em;
+}

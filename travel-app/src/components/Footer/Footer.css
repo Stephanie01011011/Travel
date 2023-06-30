@@ -1,0 +1,11 @@
+.footer{
+    background-color: rgba(24, 24, 24, 0.87);
+    height: 100px;
+    display: flex;
+}
+.footerText{
+    color: white;
+}
+.socials{
+    
+}
